@@ -46,9 +46,9 @@ Users can delete existing tasks. A prompt will appear to comfirm deleting the ta
 
 
 ## Architecture
-Main Page: Users can view and manage all their tasks here. 
-Users: Users can manage their tasks through creating new ones, editing existing ones, or deleting certain tasks. 
-Tasks: Each task consists of a "Title," "Note," and "Completed" section where users can input the name of the task, notes about the task, and the completed date (format: dd/mm/yy). 
+- Main Page: Users can view and manage all their tasks here. <br>
+- Users: Users can manage their tasks through creating new ones, editing existing ones, or deleting certain tasks. <br>
+- Tasks: Each task consists of a "Title," "Note," and "Completed" section where users can input the name of the task, notes about the task, and the completed date (format: dd/mm/yy). 
 
 
 ## Fixed Issues and their Solutions
